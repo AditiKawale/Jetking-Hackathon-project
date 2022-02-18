@@ -67,3 +67,4 @@ while True:
      os.system(BlockChainFileName)
     
 
+#close the output json file after giving input for adding of each block to avoid invalid data in json file
