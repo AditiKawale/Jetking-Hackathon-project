@@ -1,0 +1,52 @@
+[
+    {
+        "student name": "meena",
+        "student rollno": "23",
+        "student marks": "432",
+        "index": "4",
+        "timeStamp": "2022-02-18 19:54:21.478291",
+        "previousHash": "00a76914990568a894e0d0b1734feef43bc9d00e6d9e83f69efad73572eb471f",
+        "currentHash": "0028d47051de6ecadd347bcc0f28d36c19bb52683d339cc265069e218bcbc775",
+        "nounce": "3048046868"
+    },
+    {
+        "student name": "robert",
+        "student rollno": "44",
+        "student marks": "500",
+        "index": "3",
+        "timeStamp": "2022-02-18 19:53:56.501809",
+        "previousHash": "00e8fb5712e655bc2d0aa80509d6dc032ea65287a853253d37f824aad8a10e31",
+        "currentHash": "00a76914990568a894e0d0b1734feef43bc9d00e6d9e83f69efad73572eb471f",
+        "nounce": "9121551744"
+    },
+    {
+        "student name": "riya",
+        "student rollno": "11",
+        "student marks": "345",
+        "index": "2",
+        "timeStamp": "2022-02-18 19:53:42.814934",
+        "previousHash": "00d7ea0ae0dd46ead536b6e70f080b8881373f265db2f7463f465cd82eeb2575",
+        "currentHash": "00e8fb5712e655bc2d0aa80509d6dc032ea65287a853253d37f824aad8a10e31",
+        "nounce": "9534129418"
+    },
+    {
+        "student name": "aditi",
+        "student rollno": "64",
+        "student marks": "499",
+        "index": "1",
+        "timeStamp": "2022-02-18 19:53:19.852642",
+        "previousHash": "0012c8425e914cbd39fbae4b365e5709095af07e03dae9bea65e9d874154908c",
+        "currentHash": "00d7ea0ae0dd46ead536b6e70f080b8881373f265db2f7463f465cd82eeb2575",
+        "nounce": "1786203468"
+    },
+    {
+        "student name": "GENESIS BLOCK",
+        "student rollno": "",
+        "student marks": "",
+        "index": "0",
+        "timeStamp": "2022-02-18 19:53:03.629460",
+        "previousHash": "x",
+        "currentHash": "0012c8425e914cbd39fbae4b365e5709095af07e03dae9bea65e9d874154908c",
+        "nounce": "4206759909"
+    }
+]
